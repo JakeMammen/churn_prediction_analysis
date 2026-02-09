@@ -1,0 +1,5 @@
+*.csv
+*.zip # if you have compressed data
+__pycache__/
+*.pyc
+.ipynb_checkpoints/ *.log
